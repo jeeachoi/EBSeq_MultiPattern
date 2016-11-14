@@ -27,3 +27,10 @@ To launch EBSeq Shiny GUI, in R run:
 
 ## 2. Input files
 Example input condition file can be found "CondMulti.csv". 
+
+## 3. Output files
+(1) Plot of all possible patterns is provided
+
+(2) Text file showing all possible patterns is provided
+
+You may also see the output on Shiny app (bottom) once it's done running.
