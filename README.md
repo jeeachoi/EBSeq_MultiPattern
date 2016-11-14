@@ -23,7 +23,6 @@ To launch EBSeq Shiny GUI, in R run:
 
 > runGitHub('jeeachoi/EBSeq_MultiPattern')
 
-![Screenshot](https://github.com/jeeachoi/EBSeq_MultiPattern/blob/master/MultiPattern.png| width=30)
-<img src="https://github.com/jeeachoi/EBSeq_MultiPattern/blob/master/MultiPattern.png" width="200" height="400" />
+<img src="https://github.com/jeeachoi/EBSeq_MultiPattern/blob/master/MultiPattern.png" width="300" height="400" />
 
 ## 2. Input files
