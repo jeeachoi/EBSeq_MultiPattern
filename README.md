@@ -26,3 +26,4 @@ To launch EBSeq Shiny GUI, in R run:
 <img src="https://github.com/jeeachoi/EBSeq_MultiPattern/blob/master/MultiPattern.png" width="300" height="400" />
 
 ## 2. Input files
+Example input condition file can be found "CondMulti.csv". 
