@@ -1,20 +1,19 @@
 # Get pattern for EBSeq Multiple condition analysis
 
-EBSeq R package and its vignette could be found at 
-https://github.com/lengning/EBSeq
+To run the EBSeq_MultiPattern graphical user interface (GUI), it requires the following packages: shiny, shinyFiles, EBSeq
 
-To install EBSeq, in R run: 
+R version ≥ 3.0.0 is needed. For mac user, make sure whether xcode is installed.
 
-> install.packages("devtools")
+To install the shiny and EBSeq packages, in R run:
 
-> library(devtools)
+> install.packages("shiny")
 
-> install_github("lengning/EBSeq/package/EBSeq")
+> install.packages("shinyFiles")
 
-Or install locally.
-
+> install.packages("EBSeq")
 
 ### Run the app
+
 To launch EBSeq Shiny GUI, in R run:
 
 > library(shiny)
@@ -33,4 +32,4 @@ Example input condition file can be found "CondMulti.csv".
 
 (2) Text file showing all possible patterns is provided
 
-You may also see the output on Shiny app (bottom) once it's done running.
+You may also see the output on Shiny app GUI (bottom) once it's done running.
